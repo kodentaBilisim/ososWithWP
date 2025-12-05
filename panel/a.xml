@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+    <S:Body>
+        <ns2:raporV3Response xmlns:ns2="http://sms/" xmlns:ns3="SMS">
+            <return><?xml version='1.0' encoding='iso-8859-9'?>
+                <mainbody>
+                    <telno jobid='1479808356' durum='0' operator='10' msg_boyu='1' iletim_tarihi='2023-07-26 15:37:48.0'
+                           failreason='0'>5435592302
+                    </telno>
+                    <telno jobid='1479808356' durum='0' operator='20' msg_boyu='1' iletim_tarihi='2023-07-26 15:37:48.0'
+                           failreason='0'>5532043425
+                    </telno>
+                </mainbody>
+            </return>
+        </ns2:raporV3Response>
+    </S:Body>
+</S:Envelope>
